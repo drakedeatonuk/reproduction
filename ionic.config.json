@@ -1,0 +1,7 @@
+{
+  "name": "Poppet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
